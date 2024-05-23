@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = robertweingarten@web.de
+	name = Robert Weingarten
